@@ -107,7 +107,7 @@ const CHARS: &[char] = &[
 ];
 
 pub const RENDEZVOUS_SERVERS: &[&str] = &["ishare.cc.cd"];
-pub const RS_PUB_KEY: &str = "DbFH3TM4hnKvRrMxmnpjJS1qUKvdB07csHU0rNbr078=";
+pub const RS_PUB_KEY: &str = "TwFVtPKSF2VSn0X0F9UleSTNH5vnVc9xne6vlTz0qeE=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
 pub const RELAY_PORT: i32 = 21117;
